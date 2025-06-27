@@ -19,7 +19,7 @@
 - 👥 Multi-user role management  
 - 📊 Real-time sales, data & analytics  
 - 💸 P2B lending features built-in  
-- 🔗 Built with love at [01 Technologies](https://01technologies.net)
+- 🔗 Built with love at [01 Technologies](https://01technologies.co)
 
 ---
 
